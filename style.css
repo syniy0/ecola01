@@ -1,0 +1,60 @@
+.cabeçalho{
+    display:inline-flex;
+}
+
+.mostarda{
+    background-color:#B7730E;
+    width:720px;
+    height:297px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.mostarda-imagem{
+    width: 233.53px;
+    height:229.74px;
+    padding:34px ;
+}
+
+.ciza{ 
+    background-color:#B0AFAF;
+    width:720px;
+    height:297px;
+    display: flex;
+    justify-content: center;
+    font-family:a ;
+    font-weight: 700;
+    font-size: 64px;
+
+}
+
+
+.ciza-texto{
+    display: inline-flex;
+    align-items: center;
+    margin: 77px;
+    text-align: center;
+
+}
+
+.titulo{
+    font-family:'Inter',sans-serif;
+    font-weight:900;
+    font-size: 91px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.texto{
+    font-family:'Inter',sans-serif ;
+    font-weight: 400;
+    font: size 40px;
+    text-align:justify;
+    margin: 35px;
+    width: 1362;
+    height: 240px;
+
+
+}
