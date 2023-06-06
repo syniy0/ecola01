@@ -58,3 +58,28 @@
 
 
 }
+.estrutura{
+    display:grid;
+    grid-template-columns:675px ;
+    row-gap: 90px;
+    column-gap: 35px;
+    margin: 28px;
+    padding-bottom: 27px;
+
+}
+.fachada-indentificação{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+}
+.laboratorio-de-quimica-img{
+    display:block ;
+    width: 675px;
+    height: 393px;
+
+}
+.Laboratorio-de-quimica{
+    
+}
+
