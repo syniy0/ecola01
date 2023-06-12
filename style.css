@@ -80,6 +80,66 @@
 
 }
 .Laboratorio-de-quimica{
+    font-family:'inter',sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+
+}
+.Quadra-eportiva{
+    font-family:'inter',sans-serif;
+    font-weight: 600;
+    font-size: 36px ;
+    text-align: center;
+}
+.Pátio-descoberto{
+    font-family: 'inter', sans-serif ;
+    font-weight: 600 ;
+    font-size: 36px ;
+    text-align: center ;
     
 }
+.rodape{
+    background-color: black;
+    width: 1440px ;
+    height: 172 ;
+    display: grid;
+    grid-template-columns: 230px,34px,1900px;
+    padding: 20px;
 
+}
+.link{
+    color:#FFFFFF ;
+    font-family: 'inter',sans-serif;
+    font-weight: 900;
+    font-size: 32px;
+    text-align: center;
+    padding-top: 35px;
+
+}
+
+a:link{
+    color: white;
+
+}
+a:hover{
+    color: #B7730E;
+}
+.icone{
+    display: grid;
+    row-gap: 12px;
+    padding-left: 50px;
+    border-top: 2px;
+}
+.informções{
+    color: #B7730E;
+    font-family: 'inter', sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    display: grid;
+    row-gap: 20px;
+    padding-left: 60px;
+    padding-top: 2px;
+    width: 1127px;
+
+}
