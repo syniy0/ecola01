@@ -20,12 +20,14 @@
 .ciza{ 
     background-color:#B0AFAF;
     width:720px;
-    height:297px;
+    height:244px;
     display: flex;
     justify-content: center;
-    font-family:a ;
+    font-family:'inconsolata', monospace;
     font-weight: 700;
     font-size: 64px;
+    display: flex;
+    justify-content: center;
 
 }
 
@@ -86,7 +88,7 @@
     text-align: center;
 
 }
-.Quadra-eportiva{
+.Quadra-esportiva{
     font-family:'inter',sans-serif;
     font-weight: 600;
     font-size: 36px ;
