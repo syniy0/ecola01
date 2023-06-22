@@ -20,12 +20,12 @@
 .ciza{ 
     background-color:#B0AFAF;
     width:720px;
-    height:244px;
+    height:297px;
     display: flex;
     justify-content: center;
     font-family:'inconsolata', monospace;
     font-weight: 700;
-    font-size: 64px;
+    font-size: 57px;
     display: flex;
     justify-content: center;
 
@@ -49,10 +49,10 @@
     padding: 30px;
 }
 
-.texto{
+.texto1{
     font-family:'Inter',sans-serif ;
     font-weight: 400;
-    font: size 40px;
+    font-size: 38px;
     text-align:justify;
     margin: 35px;
     width: 1362;
@@ -60,47 +60,55 @@
 
 
 }
+
 .estrutura{
     display:grid;
-    grid-template-columns:675px ;
+    grid-template-columns:675px 675px ;
     row-gap: 90px;
     column-gap: 35px;
     margin: 28px;
     padding-bottom: 27px;
 
 }
+
 .fachada-indentificação{
     font-family: 'Inter', sans-serif;
     font-weight: 600;
     font-size: 36px;
     text-align: center;
 }
-.laboratorio-de-quimica-img{
+
+.laboratorio-imagem{
     display:block ;
     width: 675px;
     height: 393px;
+    text-align: center;
 
 }
-.Laboratorio-de-quimica{
+
+.Laboratorio{
     font-family:'inter',sans-serif;
     font-weight: 600;
     font-size: 36px;
     text-align: center;
 
 }
-.Quadra-esportiva{
+
+.Quadra{
     font-family:'inter',sans-serif;
     font-weight: 600;
     font-size: 36px ;
     text-align: center;
 }
-.Pátio-descoberto{
+
+.Pátio{
     font-family: 'inter', sans-serif ;
     font-weight: 600 ;
     font-size: 36px ;
     text-align: center ;
     
 }
+
 .rodape{
     background-color: black;
     width: 1440px ;
@@ -110,38 +118,42 @@
     padding: 20px;
 
 }
+
 .link{
     color:#FFFFFF ;
     font-family: 'inter',sans-serif;
     font-weight: 900;
-    font-size: 32px;
+    font-size: 30px;
     text-align: center;
     padding-top: 35px;
 
 }
 
 a:link{
-    color: white;
+    color:#FFFFFF;
 
 }
+
 a:hover{
-    color: #B7730E;
+    color: #b7730e;
 }
+
 .icone{
     display: grid;
-    row-gap: 12px;
+    row-gap: 28px;
     padding-left: 50px;
     border-top: 2px;
 }
-.informções{
-    color: #B7730E;
+
+.informações{
+    color: #b7870e;
     font-family: 'inter', sans-serif;
     font-weight: 300;
     font-size: 28px;
     display: grid;
     row-gap: 20px;
     padding-left: 60px;
-    padding-top: 2px;
+    padding-top: 27px;
     width: 1127px;
 
 }
